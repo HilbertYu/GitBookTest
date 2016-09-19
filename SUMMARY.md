@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Graph
-* Definitions
+* [Definitions](definitions.md)
 
